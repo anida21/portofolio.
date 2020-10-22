@@ -37,14 +37,10 @@ export default class Projects extends Component {
 								<h3><a href="work.html">Project 2</a></h3>
 								<span>Earthquakes web and mobile application</span>
 								<p>For web app: HTML/CSS, Javascript(ES6), Firebase</p>
-								<p>For mobile app: Android studio(Java) </p>
 								<p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1d1xTZKqhJ42vnk9ufJRw4Z_9gxGAbRGI/view?usp=sharing" target="_blank" rel="noopener noreferrer">watch the video(web app)</a></p>
+								<p>For mobile app: Android studio(Java) </p>
 								<p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/14ICmf-QfikRJcNua03tnoZvR60Ma1acB/view?usp=sharing" target="_blank" rel="noopener noreferrer">watch the video(mobile app)</a></p>
-
-
-								<p className="icon">
-									
-								</p>
+								
 							</div>
 						</div>
 					</div>
