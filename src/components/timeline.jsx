@@ -8,31 +8,32 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">Timeline</span>
+                <span className="heading-meta">Education</span>
               </div>
             </div>
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                       
+                        
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Mibo komunikacije <span> February-March(2020)</span></h2>
-                        <p>In 2020 I was on a short internship program at Mibo komunikacije. I was learning things for a frontend developer.</p>
+                        <h2>Faculty of traffic and communications, Sarajevo<span> 2020-2022</span></h2>
+                        <p>Master's degree-Computer and information technologies </p> 
                       </div>
                     </div>
                   </article>
+                  
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         
                       </div>
                       <div className="timeline-label">
-                        <h2>Faculty of transport and communications, Sarajevo<span> 2017-2020</span></h2>
-                        <p> Bachelor’s degree of Computer and Information Technology.</p>
+                        <h2>Faculty of traffic and communications, Sarajevo<span> 2017-2020</span></h2>
+                        <p> Bachelor’s degree-Computer and information technologies</p>
                       </div>
                     </div>
                   </article>
@@ -43,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>High school of electrical engineering, Sarajevo<span> 2012-2016</span></h2>
-                        <p>I finished high school in Sarajevo, majoring in Computer science and informatics. </p> 
+                        <p>Computer science and informatics </p> 
                       </div>
                     </div>
                   </article>

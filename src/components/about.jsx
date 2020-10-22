@@ -12,9 +12,9 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
-                    <p>I am currently enrolled at my bachelor studies at Faculty of traffic and communications in Sarajevo, department of Computer and information technology. Throughout my education I have gained a lot of theoretical and practical knowledge about software engineering.  </p>
-                    <p>I have learnt and used a lot of programming techniques in C++, JavaScript, Java, Python. Python and Java courses was stricty based on Object Oriented Programming. During C++ course I have learnt about memory management, algorithms and data structures. I understand basic network protocols. Most of all I like to work with HTML, CSS, Javascript (react.js, node.js) and PHP. I wish to work on larger projects and I'd really like to enhance that knowledge, actually, to enrich my experience. </p>
-                    </div>
+                    <p>Bachelor engineer of Traffic and comunication, Computer and information technologies. During my college education, I was mostly focused on web application development. I upgrade my knowledge in that area every day. In college, I worked on certain projects in which I was in the beginning engaged with basic technologies and later upgraded my knowledge with new technologies.
+                     I love gaining new knowledge, experience but also acquaintances. I like to work on projects in a team because teamwork, good communication but also good organization make it easier to work on new projects.
+                     I'm really passionate about learning new stuff about IT sector at all, working and improving my skills everyday.</p></div>
                 </div>
                 </div>
             </div>
@@ -33,8 +33,8 @@ export default class About extends Component {
                 <div className="services color-3">
                 
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience with web development using HTML, CSS, JavaScript, React.js, Php.</p>
+                    <h3>FRONT-END SKILLS:</h3>
+                    <p>HTML5/CSS3, JavaScript (ES5, ES6+), React.js, Angular</p>
                 </div>
                 </div>
             </div>
@@ -42,8 +42,8 @@ export default class About extends Component {
                 <div className="services color-3">
                 
                 <div className="desc">
-                    <h3>Database</h3>
-                    <p>Knowledge of working with My Sql database and Firebase.</p>
+                    <h3>BACK-END SKILLS:</h3>
+                    <p>C++, JAVA, OOP, Algorithms and Data Structure, HTTP API, SQL/MYSQL  </p>
                 </div>
                 </div>
             </div>
@@ -51,8 +51,8 @@ export default class About extends Component {
                 <div className="services color-3">
                 
                 <div className="desc">
-                     <h3>Mobile applications</h3>
-                    <p>I have experience with mobile application development using Java in Android studio. </p>
+                     <h3>SOFT SKILLS</h3>
+                    <p>TEAMWORK, COMMUNICATION, ADAPTABILITY, POSITIVE ATTITUDE</p>
                 </div>
                 </div>
             </div>
@@ -66,8 +66,8 @@ export default class About extends Component {
                 <div className="services color-3">
                 
                 <div className="desc">
-                     <h3>Microsoft</h3>
-                    <p>MTA: Introduction to Programming Using JavaScript. </p>
+                     <h3>Microsoft MTA</h3>
+                    <p>Introduction to Programming Using JavaScript. </p>
                 </div>
                 </div>
             </div>
@@ -77,6 +77,15 @@ export default class About extends Component {
                 <div className="desc">
                      <h3>Hackhaton</h3>
                     <p>"Just Code It", EESTEC LC </p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                
+                <div className="desc">
+                     <h3>EDIT 2020</h3>
+                    <p>"Behind the app", Comtrade Group </p>
                 </div>
                 </div>
             </div>
